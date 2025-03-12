@@ -64,7 +64,7 @@ streamlit run app.py
 
 ---
 
-## **📸 Screenshots**  
+## **📸 Output Screenshot**  
 ### **Real-Time Stock Price Prediction UI**  
 ![Stock Prediction UI](image.png)  
 
