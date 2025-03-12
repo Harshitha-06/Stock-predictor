@@ -27,18 +27,12 @@ This project uses **AI and Machine Learning** to analyze real-time stock market 
 
 ## **🛠 Installation**  
 
-1️⃣ **Clone the repository:**  
-```bash
-git clone https://github.com/your-username/real-time-stock-prediction.git  
-cd real-time-stock-prediction  
-```  
-
-2️⃣ **Install dependencies:**  
+1️⃣ **Install dependencies:**  
 ```bash
 pip install -r requirements.txt  
 ```  
 
-3️⃣ **Run the application:**  
+2️⃣ **Run the application:**  
 ```bash
 streamlit run app.py  
 ```  
