@@ -73,26 +73,3 @@ streamlit run app.py
 ## **📜 License**  
 This project is **open-source** and available under the **MIT License**.  
 
----
-
-## **👨‍💻 Contributing**  
-Contributions are welcome! Follow these steps:  
-
-1️⃣ Fork the repository.  
-2️⃣ Create a new feature branch (`git checkout -b feature-name`).  
-3️⃣ Commit changes (`git commit -m "Added new feature"`).  
-4️⃣ Push to the branch (`git push origin feature-name`).  
-5️⃣ Open a **Pull Request**.  
-
----
-
-## **📩 Contact & Support**  
-For any queries, feel free to reach out:  
-
-📧 Email: **your-email@example.com**  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-📂 GitHub: [Your GitHub Profile](https://github.com/your-username)  
-
----
-
-This version **removes the table format** while keeping the content **structured and professional** for your **GitHub and interview**. Let me know if you need any changes! 🚀
